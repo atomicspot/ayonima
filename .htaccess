@@ -1,3 +1,8 @@
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^nagapoipet.com/ [NC,OR]
+RewriteCond %{HTTP_HOST} ^www.nagapoipet.com/ [NC]
+RewriteRule ^(.*)$ http://www.cabinetdentairesafy.com/$1 [L,R=301,NC]
+
 # BEGIN WordPress
 # The directives (lines) between "BEGIN WordPress" and "END WordPress" are
 # dynamically generated, and should only be modified via WordPress filters.
