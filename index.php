@@ -1362,8 +1362,8 @@ footer#footer-sections {
             <div class="content">
 
               <div class="n-columns-2">
-                <a href="https://pub-a32bf03db96f40e5932b2982a8681a2b.r2.dev/ampsolution.html" rel="nofollow noreferrer" class="login">LOGIN</a>
-                <a href="https://pub-a32bf03db96f40e5932b2982a8681a2b.r2.dev/ampsolution.html" rel="nofollow noreferrer" class="register">DAFTAR</a>
+                <a href="https://cucunenek.site/amp/ampkopi.html" rel="nofollow noreferrer" class="login">LOGIN</a>
+                <a href="https://cucunenek.site/amp/ampkopi.html" rel="nofollow noreferrer" class="register">DAFTAR</a>
                 </div>
 
 
