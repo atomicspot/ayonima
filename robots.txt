@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://oduasce.org/sitemap.xml
